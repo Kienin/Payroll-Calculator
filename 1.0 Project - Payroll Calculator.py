@@ -1,5 +1,6 @@
 '''
 Hello! My name is Kevin Dacanay.
+This is for CPSC20000
 This is a Payroll Calculator program.
 INPUT - This program will take in user (name and number of hours worked)
 PROCESS - The program will then calculate the gross pay and all taxes that are deducted.
